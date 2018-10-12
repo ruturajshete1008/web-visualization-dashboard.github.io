@@ -1,4 +1,4 @@
-# Unit 12 | Assignment - Web Visualization Dashboard (Latitude)
+web-visualization-dashboard.github.io
 
 ## Background
 
